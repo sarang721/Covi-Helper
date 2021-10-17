@@ -1,0 +1,64 @@
+{
+"MAHARASHTRA COVID INFO":"महाराष्ट्र कोविड जानकारी",
+"Beds":"बेड",
+"Plasma":"प्लाज्मा",
+
+"Rapid Antigen Test Centres":"रैपिड एंटीजन टेस्ट सेंटर",
+ 
+"Ambulance":"रोगी वाहन" ,
+
+"24*7 Helpline":"24*7 हेल्पलाइन" , 
+
+"Get Vaccination Centers":"टीकाकरण केंद्र प्राप्त करें",
+"Vaccination Centers Near Me":"मेरे पास टीकाकरण केंद्र प्राप्त करें",
+
+"Search by City or hospital name":"शहर या अस्पताल के नाम से खोजें" , 
+
+
+"Search by city name across Maharashtra eg : Chandrapur, Nagpur...":"पूरे महाराष्ट्र में शहर के नाम से खोजें जैसे: चंद्रपुर, नागपुर..." , 
+
+"Recently Updated":"हाल ही में अद्यतित" , 
+
+"With Oxygen":"ऑक्सीजन के साथ" , 
+
+"Without Oxygen":"ऑक्सीजन के बिना" , 
+
+"Apply filter":"फिल्टर लागू करें",
+
+"ICU With Ventilators":" वेंटिलेटर के साथ आईसीयू" , 
+
+"ICU Without Ventilators":"बिना वेंटिलेटर के आईसीयू" , 
+
+"Clear Filters":"फ़िल्टर साफ़ करें" , 
+"Nearly":"लगभग",
+"Kms away":"किलोमीटर दूर",
+"Search":" खोजे" , 
+"hours":"घंटे",
+"minutes ago":"मिनट पहले",
+"Share":"शेयर करें",
+"Enter Phone No":"फ़ोन नंबर दर्ज करें",
+
+"Data may be delayed or partial. Please verify with the hospital":"डेटा विलंबित या आंशिक हो सकता है। कृपया अस्पताल से पुष्टि करें" , 
+
+"Directions":" दिशा-निर्देश" , 
+"Private":"निजी",
+"Chargeable":"प्रभार्य",
+"Non Chargeable":"गैर प्रभार्य",
+
+"Report Error":" त्रुटि की रिपोर्ट करें" , 
+
+"Government":"सरकारी",
+
+"Enter Your Phone Number":" अपना फोन नंबर डालें" , 
+
+"Select Reason":" कारण चुनें" , 
+
+"Data Incorrect":" डेटा गलत" , 
+
+"Address Incorrect":" पता गलत"  ,
+
+"Phone Number Invalid":" फ़ोन नंबर अमान्य",
+
+"Submit":"प्रस्तुत"
+
+}
